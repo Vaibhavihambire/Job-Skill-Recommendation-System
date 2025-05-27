@@ -12,7 +12,7 @@ To help job seekers, students, and professionals align their learning paths with
 
 ## 📊 Dataset
 
-- **Source**: job_postings.csv (cleaned as `cleaned_job_data.csv`)
+- **Source**: Data collected from Kaggle as job_postings.csv (cleaned as `cleaned_job_data.csv`)
 - **Columns Used**: Job Title, Years of Experience, Job Skills, Pay, Industry, etc.
 - **Rows**: Thousands of real job postings containing skill requirements.
 
